@@ -10,9 +10,9 @@ def tharcyla():
         'management': ['Strategic Management', 'Federal University of Rio de Janeiro']
     }
     employment = {
-        'project analyst': ['Studio VS', 'Rio de Janeiro'],
-        'english teacher': ['CCAA', 'Rio de Janeiro'],
-        'greeter': ['The Walt Disney Company', 'Rio de Janeiro'],
+        'project analyst': ['Studio VS', 'Rio de Janeiro, Brazil'],
+        'english teacher': ['CCAA', 'Rio de Janeiro, Brazil'],
+        'greeter': ['The Walt Disney Company', 'Florida, United States'],
     }
     return(username, name, pronouns, fun_fact, education, employment)
 
