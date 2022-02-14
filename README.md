@@ -13,7 +13,7 @@
 - 📈 A passion for **data science** made me jump headfirst in **Python** and **SQL**
 - 💻 Just finished Udacity's [Programming for Data Science with Python Nanodegree](https://graduation.udacity.com/confirm/LPVKRAW5)
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/tharcylamourao/)
-- 📺 Fun fact: I keep logs of my TOP 10 TV shows of the year since 2015
+- 🦸‍♀️ Fun fact: ᱬ Wanda Maximoff ᱬ is my favorite superhero
 
 <div align=center>
     <a href="https://github.com/tharcyla">
