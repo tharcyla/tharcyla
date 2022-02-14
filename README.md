@@ -17,9 +17,15 @@ tharcyla = {
     
 }
 
-def main():
+def iteration(tharcyla):
     for key, value in tharcyla.items():
-        print("{}: {}".format(key, value))
+        if type(value) is dict:
+            iteration(value)
+        else:
+            print(key, ":", value)
+
+def main():
+    iteration(tharcyla)
 
 if __name__ == "__main__":
     main()
