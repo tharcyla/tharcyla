@@ -12,6 +12,8 @@
 - 📢 Over four years of experience in Project Management
 - 📈 A passion for **data science** made me jump headfirst in **Python** and **SQL**
 - 💻 Just finished Udacity's [Programming for Data Science with Python Nanodegree](https://graduation.udacity.com/confirm/LPVKRAW5)
+- 🚀 Currently enrolled in [Código[s]](https://sites.google.com/stone.com.br/stonetech/cursos/c%C3%B3digos), a Python Bootcamp provided by a partnership between
+[Stone](https://www.stone.com.br/) and [How Education](https://howedu.com.br/)
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/tharcylamourao/)
 - 🦸‍♀️ Fun fact: ᱬ Wanda Maximoff ᱬ is my favorite superhero
 
