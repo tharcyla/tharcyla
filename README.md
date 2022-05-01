@@ -1,10 +1,5 @@
-<div>
-    <div align=center>
-        <img src ="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=e56b6f&size=30&lines=Hey+there!+I'm+Thárcyla+👋">
-    </div>
-    <div align=center>
-        <a href="https://www.linkedin.com/in/tharcylamourao/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-    </div>
+<div align=center>
+    <img src ="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=e56b6f&size=30&lines=Hey+there!+I'm+Thárcyla+👋">
 </div>
 
 ### 🎯 About me:
@@ -15,7 +10,7 @@
 - 🚀 Currently enrolled in Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 - 🚀 Currently enrolled in [Código[s]](https://sites.google.com/stone.com.br/stonetech/cursos/c%C3%B3digos), a Python Bootcamp provided by a partnership between
 [Stone](https://www.stone.com.br/) and [How Education](https://howedu.com.br/)
-- 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/tharcylamourao/)
+- 📫 Reach me @ <a href="https://www.linkedin.com/in/tharcylamourao/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 - 🦸‍♀️ Fun fact: ᱬ Wanda Maximoff ᱬ is my favorite superhero
 
 <div align=center>
